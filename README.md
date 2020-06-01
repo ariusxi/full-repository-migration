@@ -32,7 +32,7 @@ When you want to clone a repository for the purpose of migration, you really wan
 
 ## FEATURES
 
-- Clones respositories: Github, Bitbucket and Gitlab
+- Clones repositories: Github, Bitbucket and Gitlab
 
 - All branches includes
 
