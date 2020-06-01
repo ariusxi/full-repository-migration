@@ -16,7 +16,7 @@ When you want to clone a repository for the purpose of migration, you really wan
 
 - Access to folder
 
-    `cd full-respository-migration`
+    `cd full-repository-migration`
 
 - Run in the folder repository: 
     
