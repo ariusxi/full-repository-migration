@@ -1,4 +1,4 @@
-# FULL MIGRATION RESPOSITORY DATA ON TERMINAL
+# FULL MIGRATION REPOSITORY DATA ON TERMINAL
 
 When you want to clone a repository for the purpose of migration, you really want everything, including all branches.
 
